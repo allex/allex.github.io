@@ -1,0 +1,1 @@
+This repository exists to redirect traffic from [allex.github.io](https://allex.github.io) to [iallex.com](https://iallex.com) (now hosted from the [website](https://github.com/WebAssembly/website) repo).
